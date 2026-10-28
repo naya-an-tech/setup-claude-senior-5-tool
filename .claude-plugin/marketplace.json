@@ -1,0 +1,16 @@
+{
+  "name": "naya-an-tech",
+  "owner": {
+    "name": "naya-an-tech"
+  },
+  "metadata": {
+    "description": "Claude Code 시니어 도구 5종 설치 플러그인"
+  },
+  "plugins": [
+    {
+      "name": "senior-5-tool",
+      "source": "./plugins/senior-5-tool",
+      "description": "Claude Code를 시니어 개발자처럼 만드는 도구 5종(Agent Skills, Context7, Graphify, 21st MCP, Strix)을 /senior-5-tool:setup 한 번으로 설치"
+    }
+  ]
+}

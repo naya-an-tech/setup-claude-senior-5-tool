@@ -1,0 +1,9 @@
+{
+  "name": "senior-5-tool",
+  "version": "1.0.0",
+  "description": "Agent Skills, Context7, Graphify, 21st MCP, Strix 를 macOS / Linux / Windows 에 한 번에 설치하는 슬래시 커맨드",
+  "author": {
+    "name": "naya-an-tech"
+  },
+  "repository": "https://github.com/naya-an-tech/setup-claude-senior-5-tool"
+}
